@@ -14,5 +14,8 @@ Anyway, the idea was to modify git metadata by editing the time environment vari
 
 Anyway, this was the result :)
 
-![Goblin Image](assets/images/goblin.jpg)
+![Goblin Image](/assets/images/goblin.jpg)
 <figcaption class="caption">Github wall after we ran goblin for 365 days</figcaption>
+
+
+Source code can be found [here](https://github.com/ykumards/goblin). It is sorta jumbled up Go code (still learning :D)

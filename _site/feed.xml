@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-22T17:21:25-04:00</updated>
+<updated>2016-05-22T17:24:51-04:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yogesh Kumar</title>
 <entry>
@@ -18,8 +18,10 @@
 
 &lt;p&gt;Anyway, this was the result :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/goblin.jpg&quot; alt=&quot;Goblin Image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/goblin.jpg&quot; alt=&quot;Goblin Image&quot; /&gt;&lt;/p&gt;
 &lt;figcaption class=&quot;caption&quot;&gt;Github wall after we ran goblin for 365 days&lt;/figcaption&gt;
+
+&lt;p&gt;Source code can be found &lt;a href=&quot;https://github.com/ykumards/goblin&quot;&gt;here&lt;/a&gt;. It is sorta jumbled up Go code (still learning :D)&lt;/p&gt;
 </content>
 <category term="random" />
 <summary>Okay, this project is probably unethical so let me go ahead with the disclaimers. This started out as an excercise on learning Go programming language. This shouldn’t be used to fool anyone (if people pay closer attention , they might not be deceived abyway).</summary>
