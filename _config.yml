@@ -15,14 +15,14 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+# analytics-google: 'UA-70080773-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: ykumards
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -31,12 +31,12 @@ twitter: ykumards
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
+#youtube: myyoutube
+spotify: quantumgeeky
 github: ykumards
-medium: medium
-vimeo: myvimeo
-email: ykumards@gmail.com
+#medium: medium
+#vimeo: myvimeo
+email: knock-knock@ykumards.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

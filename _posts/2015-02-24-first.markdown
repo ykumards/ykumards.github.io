@@ -1,0 +1,12 @@
+---
+title: "First Blog"
+layout: post
+date: 2016-05-22 13:36
+tag:
+- rant
+blog: true
+---
+
+## Test Page Here
+Trying this thing out for the first time. Here's a test rant... AAAAHHHHHHH
+
