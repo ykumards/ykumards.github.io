@@ -3,9 +3,27 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-22T13:36:45-04:00</updated>
+<updated>2016-05-22T17:21:25-04:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yogesh Kumar</title>
+<entry>
+<title>Goblin</title>
+<link href="http://localhost:3000/goblin/" rel="alternate" type="text/html" title="Goblin" />
+<published>2016-05-22T17:21:00-04:00</published>
+<updated>2016-05-22T17:21:00-04:00</updated>
+<id>http://localhost:3000/goblin</id>
+<content type="html" xml:base="http://localhost:3000/goblin/">&lt;p&gt;Okay, this project is probably unethical so let me go ahead with the disclaimers. This started out as an excercise on learning Go programming language. This shouldn’t be used to fool anyone (if people pay closer attention , they might not be deceived abyway).&lt;/p&gt;
+
+&lt;p&gt;Anyway, the idea was to modify git metadata by editing the time environment variable. This will alter our commit history, and by looping long enough we can paint out whole github profile wall &lt;strong&gt;green&lt;/strong&gt;. This was by no means an original &lt;a href=&quot;http://stackoverflow.com/questions/20099235/who-is-the-user-with-the-longest-streak-on-github&quot;&gt;idea&lt;/a&gt;, I just wanted to try out running subprocesses in Go.&lt;/p&gt;
+
+&lt;p&gt;Anyway, this was the result :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/goblin.jpg&quot; alt=&quot;Goblin Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Github wall after we ran goblin for 365 days&lt;/figcaption&gt;
+</content>
+<category term="random" />
+<summary>Okay, this project is probably unethical so let me go ahead with the disclaimers. This started out as an excercise on learning Go programming language. This shouldn’t be used to fool anyone (if people pay closer attention , they might not be deceived abyway).</summary>
+</entry>
 <entry>
 <title>First Blog</title>
 <link href="http://localhost:3000/first/" rel="alternate" type="text/html" title="First Blog" />
@@ -18,5 +36,25 @@
 </content>
 <category term="rant" />
 <summary>Test Page HereTrying this thing out for the first time. Here’s a test rant… AAAAHHHHHHH</summary>
+</entry>
+<entry>
+<title>Goblin</title>
+<link href="http://localhost:3000/project/" rel="alternate" type="text/html" title="Goblin" />
+<published>2016-05-22T13:08:00-04:00</published>
+<updated>2016-05-22T13:08:00-04:00</updated>
+<id>http://localhost:3000/project</id>
+<content type="html" xml:base="http://localhost:3000/project/">&lt;h2 id=&quot;goblin&quot;&gt;Goblin&lt;/h2&gt;
+
+&lt;p&gt;Okay, this project is probably unethical so let me go ahead with the disclaimers. This started out as an excercise on learning Go programming language. This shouldn’t be used to fool anyone (if people pay closer attention , they might not be deceived abyway).&lt;/p&gt;
+
+&lt;p&gt;Anyway, the idea was to modify git metadata by editing the time environment variable. This will alter our commit history, and by looping long enough we can paint out whole github profile wall &lt;strong&gt;green&lt;/strong&gt;. This was by no means an original &lt;a href=&quot;http://stackoverflow.com/questions/20099235/who-is-the-user-with-the-longest-streak-on-github&quot;&gt;idea&lt;/a&gt;, I just wanted to try out running subprocesses in Go.&lt;/p&gt;
+
+&lt;p&gt;Anyway, this was the result :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/goblin.jpg&quot; alt=&quot;Goblin Image&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;caption&quot;&gt;Github wall after we ran goblin for 365 days&lt;/figcaption&gt;
+</content>
+<category term="hack" />
+<summary>Goblin</summary>
 </entry>
 </feed>

@@ -1,0 +1,19 @@
+---
+title: "Goblin"
+layout: post
+date: 2016-05-22 13:08
+tag:
+- hack
+project: true
+---
+
+## Goblin
+
+Okay, this project is probably unethical so let me go ahead with the disclaimers. This started out as an excercise on learning Go programming language. This shouldn't be used to fool anyone (if people pay closer attention , they might not be deceived abyway).
+
+Anyway, the idea was to modify git metadata by editing the time environment variable. This will alter our commit history, and by looping long enough we can paint out whole github profile wall **green**. This was by no means an original [idea](http://stackoverflow.com/questions/20099235/who-is-the-user-with-the-longest-streak-on-github), I just wanted to try out running subprocesses in Go. 
+
+Anyway, this was the result :)
+
+![Goblin Image](assets/images/goblin.jpg)
+<figcaption class="caption">Github wall after we ran goblin for 365 days</figcaption>
