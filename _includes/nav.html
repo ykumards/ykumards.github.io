@@ -29,5 +29,12 @@
                 </li>
             {% endif %}
         {% endif %}
+        {% if site.about == true %}
+            {% if page.title != "Quptes" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/quotes">Quotes</a>
+                </li>
+            {% endif %}
+        {% endif %}
     </ul>
 </nav>

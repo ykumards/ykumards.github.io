@@ -28,6 +28,9 @@
 <loc>http://localhost:3000/projects/</loc>
 </url>
 <url>
+<loc>http://localhost:3000/quotes/</loc>
+</url>
+<url>
 <loc>http://localhost:3000/tags/</loc>
 </url>
 </urlset>
