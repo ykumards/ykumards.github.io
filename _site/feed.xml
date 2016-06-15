@@ -3,9 +3,24 @@
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
 <link href="http://localhost:3000/feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:3000/" rel="alternate" type="text/html" />
-<updated>2016-05-23T10:08:24-04:00</updated>
+<updated>2016-06-15T19:37:16-04:00</updated>
 <id>http://localhost:3000/</id>
 <title>Yogesh Kumar</title>
+<entry>
+<title>On Logs</title>
+<link href="http://localhost:3000/on-logs/" rel="alternate" type="text/html" title="On Logs" />
+<published>2016-06-15T19:27:00-04:00</published>
+<updated>2016-06-15T19:27:00-04:00</updated>
+<id>http://localhost:3000/on-logs</id>
+<content type="html" xml:base="http://localhost:3000/on-logs/">&lt;p&gt;I usually keep a log of interesting things I come across for future reference (stashed in Evernote or Pocket), but there was no consistency in this. More often than now, I simply forget to maintain this log. I think it will be useful to write a weekly post for collecting such info. This will keep the motivation going and engage in a variety of inteesting stuff. Also, this would enable me to write something down everyweek, as blog posts usually take much longer to conceive and write.&lt;/p&gt;
+
+&lt;p&gt;So I’ll just tag these posts as ‘logs’ and they can be searched &lt;a href=&quot;http://ykumards.com/tags/#logs&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+<category term="logs" />
+<category term="epiphany" />
+<summary>I usually keep a log of interesting things I come across for future reference (stashed in Evernote or Pocket), but there was no consistency in this. More often than now, I simply forget to maintain this log. I think it will be useful to write a weekly post for collecting such info. This will keep the motivation going and engage in a variety of inteesting stuff. Also, this would enable me to write something down everyweek, as blog posts usually take much longer to conceive and write.</summary>
+</entry>
 <entry>
 <title>Goblin</title>
 <link href="http://localhost:3000/goblin/" rel="alternate" type="text/html" title="Goblin" />

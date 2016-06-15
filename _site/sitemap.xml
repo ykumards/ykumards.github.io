@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:3000/on-logs/</loc>
+<lastmod>2016-06-15T19:27:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:3000/goblin/</loc>
 <lastmod>2016-05-22T17:21:00-04:00</lastmod>
 </url>
@@ -19,10 +23,16 @@
 <loc>http://localhost:3000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:3000/books/</loc>
+</url>
+<url>
 <loc>http://localhost:3000/blog/</loc>
 </url>
 <url>
 <loc>http://localhost:3000/</loc>
+</url>
+<url>
+<loc>http://localhost:3000/logs/</loc>
 </url>
 <url>
 <loc>http://localhost:3000/projects/</loc>
