@@ -1,6 +1,8 @@
-var gulp = require('gulp'),
-    requireDir = require('require-dir');
+var gulp = require('gulp');
+var pngmin = require('gulp-pngmin');
 
-requireDir('./tasks', { recurse: true });
-
-gulp.task('default', ['styles', 'imagemin', 'browserSync', 'watch']);
+gulp.task('default', function() {
+  gulp.src('images/*.png')
+      .pipe(pngmin())
+      .pipe(gulp.dest('images'))
+});
