@@ -161,6 +161,12 @@
       "css": "edit",
       "code": 59417,
       "src": "typicons"
+    },
+    {
+      "uid": "fb4794d89b77ab712ad56c0dc4c76c6b",
+      "css": "spotify",
+      "code": 59418,
+      "src": "fontawesome"
     }
   ]
 }
