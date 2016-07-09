@@ -3,7 +3,7 @@
   
     {
       "title"			: "MathJax Example",
-      "link"			: "http://localhost:4000/blog/mathjax-example/",
+      "link"			: "http://ykumards.com/blog/mathjax-example/",
       "excerpt"		: "MathJax is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics  ... , and the other for inline mathematics  ... ."
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Hello World",
-      "link"			: "http://localhost:4000/blog/hello-world/",
+      "link"			: "http://ykumards.com/blog/hello-world/",
       "excerpt"		: "You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext."
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "Override Author Byline Test Post",
-      "link"			: "http://localhost:4000/articles/author-override/",
+      "link"			: "http://ykumards.com/articles/author-override/",
       "excerpt"		: "An article to test overriding the default site author."
     }
   
@@ -27,7 +27,7 @@
   
     ,{
       "title"			: "Override Author Byline Test Post",
-      "link"			: "http://localhost:4000/notes/author-override/",
+      "link"			: "http://ykumards.com/notes/author-override/",
       "excerpt"		: "An article to test overriding the default site author."
     }
   
@@ -35,7 +35,7 @@
   
     ,{
       "title"			: "Syntax Highlighting Post",
-      "link"			: "http://localhost:4000/articles/code-highlighting-post/",
+      "link"			: "http://ykumards.com/articles/code-highlighting-post/",
       "excerpt"		: "Demo post displaying the various ways of highlighting code in Markdown."
     }
   
@@ -43,7 +43,7 @@
   
     ,{
       "title"			: "Syntax Highlighting Post",
-      "link"			: "http://localhost:4000/notes/code-highlighting-post/",
+      "link"			: "http://ykumards.com/notes/code-highlighting-post/",
       "excerpt"		: "Demo post displaying the various ways of highlighting code in Markdown."
     }
   
@@ -51,7 +51,7 @@
   
     ,{
       "title"			: "Sample Link Post",
-      "link"			: "http://localhost:4000/notes/sample-link-post/",
+      "link"			: "http://ykumards.com/notes/sample-link-post/",
       "excerpt"		: "Example and code for using link posts."
     }
   
@@ -59,7 +59,7 @@
   
     ,{
       "title"			: "Sample Link Post",
-      "link"			: "http://localhost:4000/notes/sample-link-post/",
+      "link"			: "http://ykumards.com/notes/sample-link-post/",
       "excerpt"		: "Example and code for using link posts."
     }
   
@@ -67,7 +67,7 @@
   
     ,{
       "title"			: "A Post with a Video",
-      "link"			: "http://localhost:4000/articles/video-post/",
+      "link"			: "http://ykumards.com/articles/video-post/",
       "excerpt"		: "Custom written post descriptions are the way to go… if you’re not lazy."
     }
   
@@ -75,7 +75,7 @@
   
     ,{
       "title"			: "Post with Large Feature Image and Text",
-      "link"			: "http://localhost:4000/articles/readability-feature-post/",
+      "link"			: "http://ykumards.com/articles/readability-feature-post/",
       "excerpt"		: "Custom written post descriptions are the way to go… if you’re not lazy."
     }
   
@@ -83,7 +83,7 @@
   
     ,{
       "title"			: "A Post with Images",
-      "link"			: "http://localhost:4000/projects/sample-post-images/",
+      "link"			: "http://ykumards.com/projects/sample-post-images/",
       "excerpt"		: "Examples and code for displaying images in posts."
     }
   
@@ -91,7 +91,7 @@
   
     ,{
       "title"			: "Testing Readability with a Bunch of Text",
-      "link"			: "http://localhost:4000/projects/readability-post/",
+      "link"			: "http://ykumards.com/projects/readability-post/",
       "excerpt"		: "A ton of text to test readability."
     }
   
@@ -99,7 +99,7 @@
   
     ,{
       "title"			: "Sample Post",
-      "link"			: "http://localhost:4000/projects/sample-post/",
+      "link"			: "http://ykumards.com/projects/sample-post/",
       "excerpt"		: "Just about everything you’ll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
     }
   
@@ -108,6 +108,14 @@
 
   
 
+  
+
+  
+    ,{
+      "title"			: "Colophon",
+      "link"			: "http://ykumards.com/colophon/",
+      "excerpt"		: "How?"
+    }
   
 
   
@@ -121,7 +129,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
+      "link"			: "http://ykumards.com/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -129,7 +137,7 @@
   
     ,{
       "title"			: "About",
-      "link"			: "http://localhost:4000/about/",
+      "link"			: "http://ykumards.com/about/",
       "excerpt"		: "Hi there!"
     }
   
