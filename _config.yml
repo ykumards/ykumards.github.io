@@ -5,8 +5,8 @@ locale: en_US
 description: Howdy
 logo: site-logo.png
 search: true
-url: http://localhost:4000
-#url: http://ykumards.com
+#url: http://localhost:4000
+url: http://ykumards.com
 
 # Jekyll configuration
 
