@@ -7,7 +7,7 @@ modified: 2016-07-08T20:44:38
 
 Hi there!
 
-I'm Yogesh Kumar, a second year CS grad student at NYU's Courant Institute. 
+I'm Yogesh Kumar, a second year CS grad student at NYU's Courant Institute. My public key is [A748 3CA9 A786 54E0](https://keybase.io/ykumards). 
 
 <img data-action="zoom" src="/images/zen_profile.jpg" style="width:30%; float: left; margin-right: 40px; margin-bottom: 15px; border-radius: 6px;">	
 
