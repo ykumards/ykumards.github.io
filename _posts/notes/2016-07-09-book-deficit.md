@@ -14,22 +14,22 @@ Let's go ahead and do the math. I have just over 175 days left to complete 44 bo
 
 I have here a list of books I've compiled for this year's reading list:
 
- 1. Things fall apart
- 2. V for Vendetta
- 3. The Quiet American
+ 1. On Writing :heavy_check_mark:
+ 2. Girl on a Train :heavy_check_mark:
+ 3. The Quiet American :book:
  4. Breakfast at Tiffany’s
  5. Foundation
  6. Winner Take Nothing
  7. To the Lighthouse
  8. Me Talk Pretty one Day
  9. To Kill a Mockingbird
- 10. Girl on a Train
+ 10. Things fall apart
  11. Thunderbolt Kid
  12. We Have Always Lived in the Castle
  13. The Body in the Library
  14. Creativity Inc.
  15. Zealot
- 16. On Writing
+ 16. V For Vandetta
  17. Cat’s Cradle
  18. 1984
  19. A Game of Thrones
