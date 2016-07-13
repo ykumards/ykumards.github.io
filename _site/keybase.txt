@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ykumards
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ykumards.com
+  * I am ykumards (https://keybase.io/ykumards) on keybase.
+  * I have a public key ASAFESkiVkP1IcA_yOIcEaSAMIE0V2v_RUCFfADAnw7cYAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120051129225643f521c03fc8e21c11a480308134576bff4540857c00c09f0edc600a",
+            "host": "keybase.io",
+            "kid": "0120051129225643f521c03fc8e21c11a480308134576bff4540857c00c09f0edc600a",
+            "uid": "2d1e9b55d93ec526e8a633165100cc19",
+            "username": "ykumards"
+        },
+        "service": {
+            "hostname": "ykumards.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1468429522,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1468429467,
+        "hash": "b3a46a2cc43751c8a609f43cbde00cd6b0d04b332c8713dfba308397e7a78f608f1f2174f8a6696f1b081772eb4bc007c705c5bb40cec5dc124664266c9219a4",
+        "seqno": 521671
+    },
+    "prev": "ab9a9c1d6790db92d2c5671739e14431ea45e082accb25c5a56310e22327bc49",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBREpIlZD9SHAP8jiHBGkgDCBNFdr/0VAhXwAwJ8O3GAKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDUxMTI5MjI1NjQzZjUyMWMwM2ZjOGUyMWMxMWE0ODAzMDgxMzQ1NzZiZmY0NTQwODU3YzAwYzA5ZjBlZGM2MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDUxMTI5MjI1NjQzZjUyMWMwM2ZjOGUyMWMxMWE0ODAzMDgxMzQ1NzZiZmY0NTQwODU3YzAwYzA5ZjBlZGM2MDBhIiwidWlkIjoiMmQxZTliNTVkOTNlYzUyNmU4YTYzMzE2NTEwMGNjMTkiLCJ1c2VybmFtZSI6InlrdW1hcmRzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ5a3VtYXJkcy5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY4NDI5NTIyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0Njg0Mjk0NjcsImhhc2giOiJiM2E0NmEyY2M0Mzc1MWM4YTYwOWY0M2NiZGUwMGNkNmIwZDA0YjMzMmM4NzEzZGZiYTMwODM5N2U3YTc4ZjYwOGYxZjIxNzRmOGE2Njk2ZjFiMDgxNzcyZWI0YmMwMDdjNzA1YzViYjQwY2VjNWRjMTI0NjY0MjY2YzkyMTlhNCIsInNlcW5vIjo1MjE2NzF9LCJwcmV2IjoiYWI5YTljMWQ2NzkwZGI5MmQyYzU2NzE3MzllMTQ0MzFlYTQ1ZTA4MmFjY2IyNWM1YTU2MzEwZTIyMzI3YmM0OSIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQFV2WhsO+lB+5xNJB0We3a6OqUX2DFRjw16j1TFfI3FKFC1EcRyDaaAWP81quLYKCPN47sVVLsQR4wwAD1zRIg+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBW0HnfQV9mGCxBR6DBJSjoj65YkdtwKe+H3oCTUrlIEKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ykumards
+
+==================================================================
