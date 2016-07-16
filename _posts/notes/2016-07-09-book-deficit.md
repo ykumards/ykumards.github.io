@@ -38,5 +38,10 @@ I have here a list of books I've compiled for this year's reading list:
  22. My Side of the Mountain
  23. Time’s Arrow
  24. The Perks of Being a Wallflower
+ 25. Hitchiker's Guide to the Galaxy
+ 26. The Restaurant at the End of the Universe
+ 27. Looking for Alaska
+ 28. Flow
+ 29. The Shining
 
 
