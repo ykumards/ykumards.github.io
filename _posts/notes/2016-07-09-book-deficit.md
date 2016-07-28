@@ -16,8 +16,8 @@ I have here a list of books I've compiled for this year's reading list:
 
  1. On Writing :heavy_check_mark:
  2. Girl on a Train :heavy_check_mark:
- 3. The Quiet American :book:
- 4. Breakfast at Tiffany’s
+ 3. Letter to a Christian Nation :heavy_check_mark:
+ 4. The Quiet American :book: 
  5. Foundation
  6. Winner Take Nothing
  7. To the Lighthouse
