@@ -17,9 +17,8 @@ I have here a list of books I've compiled for this year's reading list:
  1. On Writing :heavy_check_mark:
  2. Girl on a Train :heavy_check_mark:
  3. Letter to a Christian Nation :heavy_check_mark:
- 4. The Quiet American :book: 
- 5. Foundation
- 6. Winner Take Nothing
+ 4. The Quiet American :heavy_check_mark:
+ 5. Batman: The Killing Joke :heavy_check_mark:
  7. To the Lighthouse
  8. Me Talk Pretty one Day
  9. To Kill a Mockingbird
@@ -43,5 +42,6 @@ I have here a list of books I've compiled for this year's reading list:
  27. Looking for Alaska
  28. Flow
  29. The Shining
-
+ 30. Foundation
+ 31. Winner Take Nothing
 
