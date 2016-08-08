@@ -19,7 +19,8 @@ I have here a list of books I've compiled for this year's reading list:
  3. Letter to a Christian Nation :heavy_check_mark:
  4. The Quiet American :heavy_check_mark:
  5. Batman: The Killing Joke :heavy_check_mark:
- 7. To the Lighthouse
+ 6. Mortality :heavy_check_mark:
+ 7. One Hundred Years of Solitude 
  8. Me Talk Pretty one Day
  9. To Kill a Mockingbird
  10. Things fall apart
@@ -28,7 +29,7 @@ I have here a list of books I've compiled for this year's reading list:
  13. The Body in the Library
  14. Creativity Inc.
  15. Zealot
- 16. V For Vandetta
+ 16. To the Lighthouse
  17. Cat’s Cradle
  18. 1984
  19. A Game of Thrones
@@ -43,5 +44,5 @@ I have here a list of books I've compiled for this year's reading list:
  28. Flow
  29. The Shining
  30. Foundation
- 31. Winner Take Nothing
+
 
