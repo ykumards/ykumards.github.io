@@ -16,8 +16,8 @@ I already have a few repos on github, and their commit chart should keep me moti
 
 #### Topics to consider
 
-- Clojure & Haskell
+- Clojure & Scala
 - Spotify API
 - React JS and Native
-- Collaborate on open source projects ([Yeoman](http://yeoman.io/) has my attention) 
+- Collaborate on open source projects ([Yeoman](http://yeoman.io/) has my attention)
 - Post SICP solved exercise code and notes (I hope to cover a lot of ground this summer)
