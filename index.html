@@ -1,59 +1,22 @@
-<html>
-<head>
-	<title>Yogesh Kumar</title>
-  <meta name="description" content="A designer at Twitter and instructor at the Academy of Art. Inspired by video games, high color contrasts, and the outdoors.">
-  <meta name="viewport" content="width=device-width" />
-	<link href="assets/css/style.css" rel="stylesheet">
-  <script src="https://use.typekit.net/tea2qzw.js"></script>  
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
-</head>
-<body id="gradient">
-    <header>
-        <h1>| Yogesh Kumar |</h1>
-    </header>
-<section>
-	<article>
-    <h1>
-      <svg width="82px" height="50px" viewBox="0 0 82 50">
-          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-              <g id="Triangle-5-+-Triangle-4" sketch:type="MSLayerGroup" fill="#FFFFFF">
-                  <polygon id="Triangle-5" opacity="0.6" sketch:type="MSShapeGroup" points="60 15 82 50 38 50 "></polygon>
-                  <polygon id="Triangle-4" sketch:type="MSShapeGroup" points="31.5 0 63 50 0 50 "></polygon>
-              </g>
-          </g>
-      </svg>
-    </h1>
-    <h2>
-      <svg width="60px" height="37px" viewBox="0 0 60 37" version="1.1">
-          <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-              <g id="mark" sketch:type="MSLayerGroup" fill="#FFFFFF">
-                  <g id="Page-1" sketch:type="MSShapeGroup">
-                      <g id="Triangle-5-+-Triangle-4">
-                          <path d="M43.8461538,11.1 L60,37 L27.6923077,37 L43.8461538,11.1 Z" id="Triangle-5" fill-opacity="0.6"></path>
-                          <path d="M46.1538462,37 L0,37 L23.0769231,0 L46.1538462,37 L46.1538462,37 Z" id="Triangle-4"></path>
-                      </g>
-                  </g>
-              </g>
-          </g>
-      </svg>      
-    </h2>
-		<p class="mobile_hide">
-			Hi there! Thanks for stopping by. I'm a Computer Science graduate student at NYU. Feel free to look around.
-		</p>
-    <p class="desktop_hide">
-      Hi there! Thanks for stopping by. I'm a Computer Science graduate student at NYU. Feel free to look around.
-    </p>
-		<ul>
-			<li><a href="http://twitter.com/ykumards">Twitter</a></li>
-			<li><a href="http://linkedin.com/in/ykumards">LinkedIn</a></li>
-      <li><a href="https://github.com/ykumards">Github</a></li>
-      <li><a href="https://">Blog</a></li>
-      <li><a href="mailto:ykumar@nyu.edu">Email</a></li>
-		</ul>
-	</article>
-</section>
+---
+layout: default
+---
 
-<script src="assets/js/gradients.js"></script>
-</body>
-</html>
+<section>
+	<ul>
+
+		{% for post in site.posts %}
+
+		<li>
+			<div class="post-date">
+				<span>{{ post.date | date: "%b %d, %Y" }}</span>
+			</div>
+			<div class="title">
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</div>
+		</li>
+
+		{% endfor %}
+
+	</ul>
+</section>
