@@ -1,7 +1,6 @@
-# 👋
- http://juliangarnier.com
- Personal mini website
+# Personal Site
 
- This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
 
- Copyright (c) 2016 Julian Garnier
+---
+#####Credits
+This was adapted from [Julian Garnier's](https://twitter.com/juliangarnier?lang=en) personal [page](https://github.com/juliangarnier/juliangarnier.com). Thanks Julian!
