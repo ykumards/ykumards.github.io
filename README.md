@@ -1,5 +1,8 @@
 # Personal Site
 
+Looks like this.
+
+<img src="page_shot.png" width="300">
 
 ---
 #####Credits
