@@ -7,7 +7,7 @@
 window.onload = function() {
 
   var messagesEl = document.querySelector('.messages');
-  var typingSpeed = 20;
+  var typingSpeed = 25;
   var loadingText = '<b>•</b><b>•</b><b>•</b>';
   var messageIndex = 0;
 
@@ -16,15 +16,17 @@ window.onload = function() {
     var hours =  date.getHours();
     var minutes =  date.getMinutes();
     var current = hours + (minutes * .01);
-    if (current >= 5 && current < 19) return 'Have a nice day';
-    if (current >= 19 && current < 22) return 'Have a nice evening';
-    if (current >= 22 || current < 5) return 'Have a good night';
+    if (current >= 5 && current < 19) return 'Have a nice day 🌅';
+    if (current >= 19 && current < 22) return 'Have a nice evening ☕';
+    if (current >= 22 || current < 5) return 'Have a good night 🌝';
   }
 
   var messages = [
-    'Hello 👋',
+    'Hello there 👋',
     'I\'m Yogesh',
-    'I go to school at NYU',
+    'I go to NYU as CS grad',
+    'I mostly work on <br/> Machine Learning',
+    'Feel free to look around',
     getCurrentTime(),
     '🍺🍺'
   ]
