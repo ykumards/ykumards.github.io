@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/coffeecult
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://coffeecult.me
+  * I am coffeecult (https://keybase.io/coffeecult) on keybase.
+  * I have a public key with fingerprint D49F BBB3 61BF 5AA5 C15E  72D6 BEB4 BC5F F643 9E7A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012031eef3a44420d6eed441db4bc4a9e1f0a9361119c2f2b6758fdd9bd33cd15f9a0a",
+            "fingerprint": "d49fbbb361bf5aa5c15e72d6beb4bc5ff6439e7a",
+            "host": "keybase.io",
+            "key_id": "beb4bc5ff6439e7a",
+            "kid": "0101ba22e555df267a68c971f17695f26fcc13a6fffaf19a42ae224687499a10538c0a",
+            "uid": "24cb5aa2e094ba81c91d1ef11c6e3019",
+            "username": "coffeecult"
+        },
+        "service": {
+            "hostname": "coffeecult.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1485656459,
+    "expire_in": 157680000,
+    "prev": "3f2095a0ada084c68816ecf98e8e9256f33ce7fd194b5b8cb04e364bf50c4116",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNoAnicbVJrTFRHGN1VqenSFVIeVaRALmqUkvXOfe29CwSQohYbrY0Vi6Tb+5iB
+K+yD3WUBN4h9CCixtCiJtEFQoGtRSgjWkpRU1woxSkUQfFWtGmyxKSU8YgzapHNJ
+/dXOn8l8c875zve4YFyoM+h/PN1rfZJxdLf+cqChWLfj4NYaHyE5lDLC4iMK4PwF
+CxXo9lgLVIWwECSgSBpAiGiRYRiKVDgIFYYBisRIMiMKECBSFGgOACDIFKIkzszy
+SFEESaFpWQEsEkRSJBIJpNrzoMvpUu0eLKswApIkCfMkxIoiKwMWmimFk6CmyyLE
+MbQAzRox3+HWGNicJLqhSXXgGH5Y5+39D/6FbxJIIkVBlmUVRHFmkeNlwQwQMHMC
+iwNIlgEtcgghEQFBZCgRUhTD8WZGEERAsjQvz/sunpejGFnCPilICowk8kAWgAIg
+AkDmIE0CQQO6ocsu2iBGyw6EIJSLCz1EeSKB415VhlprtVr+gzHhdyLhdDk8DtlR
+iL/yPR6nRWN6ypwatARK1n9FrJJqV3AnMcELXW7VYScsACNlj6qpAoZnOZZjWCGR
+gKVO1QWtqoZgzRxP4qOlgV4sSSOKFFg8GUUkeUbmeB5wUEYCD3koUCyH8PCgGSkA
+l8tKvCyRDKQ5Bg+LlBkAOEIrq8juICw4k0fMw5JuNc8ueopdkCg/H8hdpNMbdC8F
+LdA2TGd4OfTF3m3yh/y99APTd1zI2p6ortuD66Niwv1De+uycmL3zF5L/auF3N6o
+X5Md1tgR/Pm+L7f8dkuJDm/OuGEOiqyq6BbjvGd8j0c7pezpxQtG0mJ0lbafhtRe
+q/Xyp+NBPGtMt/UmZQbySmY+MXS+0ze0M6N4Q8uYoQ+djKxqJUuWdUih9TNjqRsv
+Zummgp9d8+1qM0b0hg4bnkZt5ZYo06W1y6deORJddjVpW2ij85h79fREbcXcz7v+
+fJ6yL6LRV2cbeTi5Lb/m7Jm3n8x2XZm78156UxiJlj3Ux6dNNQfp7LQP3V736NTO
+K1tC2L5A6zAI9E6XVp1embDbeGh2amKy6Kbtd/7chH/s45TqY61llQPd3z5oXftu
+pJI5UjKmGBt6Vlkr9ue4xhtdG51Z8sHvX/sh+DNx6UdM5Br/upJL53l74NnqNttd
+v2lmfPir66t8Z0/dd359fMVcv23z9c3hfW89MHgHdEXdV+vDmgqOLuokY5M7+LRf
+4oJa33we+3597VDYvcU3TlgG+x85P/QeiPu1pvnOzfbRiITJ+KSVPYXtoys667Jf
+39FfZ95Uxndd0M+mkOMn9ieblst89Bvd8d7BPaa9X2QOn+NMlrx7h3BHBqoX1ldn
+JDag6PKJDW3ld3NzHLnJl1KnbReNMf4/0l0n1x9ueWq6dXxJ0zeP2/2Daa9y3vuV
+toSk7Vn/AMflv1w=
+=PNJ5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/coffeecult
+
+==================================================================
