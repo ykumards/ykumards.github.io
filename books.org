@@ -1,0 +1,34 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
+#+TITLE: Reading List
+#+OPTIONS: toc:nil
+#+options: num:nil
+
+HTML version of the Org file that I maintain for my readling list. Occasionally, I also write reviews for some books.
+** Currently Reading
+*** [[https://www.goodreads.com/book/show/9969571-ready-player-one][Ready Player One]]
+*** [[https://www.goodreads.com/book/show/7144.Crime_and_Punishment?ac=1&from_search=true][Crime and Punishment]]
+*** [[https://www.goodreads.com/book/show/20527133-superintelligence][Superintelligence]]
+** 2017
+*** [[https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck][The Subtle Art of Not Giving a Fuck]]
+    Completed On: <2017-01-09 Mon>
+** 2016 [20]
+*** [[https://www.goodreads.com/book/show/25744928-deep-work][Deep Work]]
+*** [[https://www.goodreads.com/book/show/6490587-things-fall-apart][Things Fall Apart]]
+*** [[https://www.goodreads.com/book/show/13259270-free-will][Free Will]]
+*** [[https://www.goodreads.com/book/show/289147.The_Best_A_Man_Can_Get][The Best A Man Can Get]]
+*** [[https://www.goodreads.com/book/show/12379144-lying][Lying]]
+*** [[https://www.goodreads.com/book/show/12722.The_Moon_Is_Down][The Moon Is Down]]
+*** [[https://www.goodreads.com/book/show/503150.Letters_to_a_Young_Contrarian][Letters to a Young Contrarian]]
+*** [[https://www.goodreads.com/book/show/13529055-mortality][Mortality]]
+*** [[https://www.goodreads.com/book/show/96358.Batman][Batman: The Killing Joke]]
+*** [[https://www.goodreads.com/book/show/3698.The_Quiet_American][The Quiet American]]
+*** [[https://www.goodreads.com/book/show/23492684-the-idealist][The Idealist]]
+*** [[https://www.goodreads.com/book/show/51299.Letter_to_a_Christian_Nation][Letter To A Christian Nation]]
+*** [[https://www.goodreads.com/book/show/7143113-on-writing][On Writing]]
+*** [[https://www.goodreads.com/book/show/22557272-the-girl-on-the-train][The Girl On The Train]]
+*** [[https://www.goodreads.com/book/show/472331.Watchmen][Watchmen]]
+*** [[https://www.goodreads.com/book/show/485894.The_Metamorphosis][The Metamorphosis]]
+*** [[https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time][The Curious Incident of the Dog in the Night-Time]]
+*** [[https://www.goodreads.com/book/show/385.On_Bullshit][On Bullshit]]
+*** [[https://www.goodreads.com/book/show/49552.The_Stranger][The Stranger]]
+*** [[https://www.goodreads.com/book/show/41793.Hackers_Painters][Hackers and Painters]]
