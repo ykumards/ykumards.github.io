@@ -11,6 +11,8 @@ HTML version of the Org file that I maintain for my readling list. Occasionally,
 ** 2017
 *** [[https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck][The Subtle Art of Not Giving a Fuck]]
     Completed On: <2017-01-09 Mon>
+*** [[https://www.goodreads.com/book/show/29780253-born-a-crime][Born A Crime]]
+
 ** 2016 [20]
 *** [[https://www.goodreads.com/book/show/25744928-deep-work][Deep Work]]
 *** [[https://www.goodreads.com/book/show/6490587-things-fall-apart][Things Fall Apart]]
