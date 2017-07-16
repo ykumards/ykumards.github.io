@@ -7,14 +7,18 @@ HTML version of the Org file that I maintain for my readling list. Occasionally,
 Also, here's my [[https://www.goodreads.com/user/show/44600519-yogesh][Goodreads profile]].
 
 ** Currently Reading
-*** [[https://www.goodreads.com/book/show/38501.Ham_on_Rye?ac=1&from_search=true][Ham on Rye]]
-*** [[https://www.goodreads.com/book/show/20566675-notes-from-underground][Notes From Underground]]
+*** [[https://www.goodreads.com/book/show/7138.Crime_and_Punishment][Crime and Punishment]]
+*** [[https://www.goodreads.com/book/show/18757378-the-plague][The Plague]]
 ** 2017
 *** [[https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck][The Subtle Art of Not Giving a Fuck]]  (2/5) 
     Completed On: <2017-01-09 Mon
 *** [[https://www.goodreads.com/book/show/29780253-born-a-crime][Born A Crime]] (5/5)
 *** [[https://www.goodreads.com/book/show/25899336-when-breath-becomes-air][When Breath Becomes Air]] (4/5)
 *** [[https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_?ac=1&from_search=true][Do Androids Dream of Electric Sheep]] (3/5)
+*** [[https://www.goodreads.com/book/show/38501.Ham_on_Rye?ac=1&from_search=true][Ham on Rye]] (5/5)
+*** [[https://www.goodreads.com/book/show/22948207-a-man-called-ove][A Man Called Ove]] (3/5)
+*** [[https://www.goodreads.com/book/show/5485.Brave_New_World][Brave New World]] (3/5)
+*** [[https://www.goodreads.com/book/show/11991.The_Fall][The Fall]] (4/5)
 ** 2016 [20]
 *** [[https://www.goodreads.com/book/show/25744928-deep-work][Deep Work]]
 *** [[https://www.goodreads.com/book/show/6490587-things-fall-apart][Things Fall Apart]]
