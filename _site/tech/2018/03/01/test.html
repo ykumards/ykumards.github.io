@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    
+        <title>Dimensionality Reduction On Sparse Feature Matrix</title>
+    
+
+    <meta name="description" content="notes">
+
+    
+
+    <link rel="icon" href="/assets/img/favicon.png">
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="post">
+  <a class="post__back" href="/">&lt;-- home</a>
+  <h1 class="post__title">Dimensionality Reduction On Sparse Feature Matrix</h1>
+  <p class="post__date">March 1, 2018</p>
+
+  <ul class="tags">
+      Tags:
+      
+        <a href="/tags#test" class="tag">test</a>.
+      
+  </ul>
+
+  <div class="post__content"?>
+    <h2 id="preliminaries">Preliminaries</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Load libraries</span>
+<span class="kn">from</span> <span class="nn">sklearn.preprocessing</span> <span class="kn">import</span> <span class="n">StandardScaler</span>
+<span class="kn">from</span> <span class="nn">sklearn.decomposition</span> <span class="kn">import</span> <span class="n">TruncatedSVD</span>
+<span class="kn">from</span> <span class="nn">scipy.sparse</span> <span class="kn">import</span> <span class="n">csr_matrix</span>
+<span class="kn">from</span> <span class="nn">sklearn</span> <span class="kn">import</span> <span class="n">datasets</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
+</code></pre>
+</div>
+
+<h2 id="load-digits-data-and-make-sparse">Load Digits Data And Make Sparse</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Load the data</span>
+<span class="n">digits</span> <span class="o">=</span> <span class="n">datasets</span><span class="o">.</span><span class="n">load_digits</span><span class="p">()</span>
+
+<span class="c"># Standardize the feature matrix</span>
+<span class="n">X</span> <span class="o">=</span> <span class="n">StandardScaler</span><span class="p">()</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">digits</span><span class="o">.</span><span class="n">data</span><span class="p">)</span>
+
+<span class="c"># Make sparse matrix</span>
+<span class="n">X_sparse</span> <span class="o">=</span> <span class="n">csr_matrix</span><span class="p">(</span><span class="n">X</span><span class="p">)</span>
+</code></pre>
+</div>
+
+<h2 id="create-truncated-singular-value-decomposition">Create Truncated Singular Value Decomposition</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Create a TSVD</span>
+<span class="n">tsvd</span> <span class="o">=</span> <span class="n">TruncatedSVD</span><span class="p">(</span><span class="n">n_components</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+</code></pre>
+</div>
+
+<h2 id="run-truncated-singular-value-decomposition">Run Truncated Singular Value Decomposition</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Conduct TSVD on sparse matrix</span>
+<span class="n">X_sparse_tsvd</span> <span class="o">=</span> <span class="n">tsvd</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_sparse</span><span class="p">)</span><span class="o">.</span><span class="n">transform</span><span class="p">(</span><span class="n">X_sparse</span><span class="p">)</span>
+</code></pre>
+</div>
+
+<h2 id="view-results">View Results</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Show results</span>
+<span class="k">print</span><span class="p">(</span><span class="s">'Original number of features:'</span><span class="p">,</span> <span class="n">X_sparse</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
+<span class="k">print</span><span class="p">(</span><span class="s">'Reduced number of features:'</span><span class="p">,</span> <span class="n">X_sparse_tsvd</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
+</code></pre>
+</div>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Original number of features: 64
+Reduced number of features: 10
+</code></pre>
+</div>
+
+<h2 id="view-percent-of-variance-explained-by-new-features">View Percent Of Variance Explained By New Features</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Sum of first three components' explained variance ratios</span>
+<span class="n">tsvd</span><span class="o">.</span><span class="n">explained_variance_ratio_</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">3</span><span class="p">]</span><span class="o">.</span><span class="nb">sum</span><span class="p">()</span>
+</code></pre>
+</div>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>0.30039385372588506
+</code></pre>
+</div>
+
+
+  </div>
+  
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+this.page.url = 'https://ykumards.github.io';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = "/tech/2018/03/01/test"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://ykumards-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+
+</div>
+
+    </div>
+
+</body>
+
+</html>
