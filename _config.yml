@@ -16,7 +16,8 @@ sass:
 
 
 # Markdown
-highlighter: rouge
+# pygments: true
+highlighter: pygments
 markdown: kramdown
 kramdown:
   input: GFM
