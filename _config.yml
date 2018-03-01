@@ -2,8 +2,7 @@
 name: yogesh kumar
 description: notes 
 google_verification: null
-baseurl: ""
-url: "https://ykumards.github.io"
+baseurl: /notes
 
 # File management
 include: [".htaccess"]
