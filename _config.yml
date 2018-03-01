@@ -8,6 +8,7 @@ baseurl: /notes
 include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
 
+theme: hanuman
 
 # Sass
 sass:
