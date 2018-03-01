@@ -92,7 +92,7 @@ ul {
 .blog {
     padding-bottom: 30px;
     h1 {
-        font-size: 1.4em;
+        font-size: 1.8em;
         margin-bottom: 5px;
     }
 }
@@ -101,7 +101,7 @@ ul {
 .post {
     padding-bottom: 30px;
     &__title {
-        font-size: 1.6em;
+        font-size: 1.8em;
         font-weight: 700;
         text-decoration: underline;
         margin-top: 20px;
@@ -166,18 +166,6 @@ ul {
             font-size: 1em;
             border-radius: 3px;
             background: $color-fg;
-        }
-        .highlight {
-            margin: 10px;
-            margin-bottom: 15px;
-            padding: 10px;
-            line-height: 1.5;
-            border-radius: 3px;
-            background: $color-fg;
-            code {
-                color: $color-code;
-                background: none;
-            }
         }
         .codebreak {
             margin: 15px;
