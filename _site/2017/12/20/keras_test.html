@@ -1,0 +1,84 @@
+<p><a alt="Dropout" href="https://machinelearningflashcards.com">
+    <img src="/images/machine_learning_flashcards/Dropout_print.png" class="flashcard center-block" />
+</a></p>
+
+<h2 id="preliminaries">Preliminaries</h2>
+
+<p>```python
+# Load libraries
+import numpy as np
+from keras.datasets import imdb
+from keras.preprocessing.text import Tokenizer
+from keras import models
+from keras import layers</p>
+
+<h1 id="set-random-seed">Set random seed</h1>
+<p>np.random.seed(0)
+```</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Using TensorFlow backend.
+</code></pre>
+</div>
+
+<h2 id="load-imdb-movie-review-data">Load IMDB Movie Review Data</h2>
+
+<p>```python
+# Set the number of features we want
+number_of_features = 1000</p>
+
+<h1 id="load-data-and-target-vector-from-movie-review-data">Load data and target vector from movie review data</h1>
+<p>(train_data, train_target), (test_data, test_target) = imdb.load_data(num_words=number_of_features)</p>
+
+<h1 id="convert-movie-review-data-to-a-one-hot-encoded-feature-matrix">Convert movie review data to a one-hot encoded feature matrix</h1>
+<p>tokenizer = Tokenizer(num_words=number_of_features)
+train_features = tokenizer.sequences_to_matrix(train_data, mode=’binary’)
+test_features = tokenizer.sequences_to_matrix(test_data, mode=’binary’)
+```</p>
+
+<h2 id="construct-neural-network-architecture-with-dropout-layer">Construct Neural Network Architecture With Dropout Layer</h2>
+
+<p>In Keras, we can implement dropout by added <code class="highlighter-rouge">Dropout</code> layers into our network architecture. Each <code class="highlighter-rouge">Dropout</code> layer will drop a user-defined hyperparameter of units in the previous layer every batch. Remember in Keras the input layer is assumed to be the first layer and not added using the <code class="highlighter-rouge">add</code>. Therefore, if we want to add dropout to the input layer, the layer we add in our is a dropout layer. This layer contains both the proportion of the input layer’s units to drop <code class="highlighter-rouge">0.2</code> and <code class="highlighter-rouge">input_shape</code> defining the shape of the observation data. Next, after we add a dropout layer with <code class="highlighter-rouge">0.5</code> after each of the hidden layers.</p>
+
+<p>```python
+# Start neural network
+network = models.Sequential()</p>
+
+<h1 id="add-a-dropout-layer-for-input-layer">Add a dropout layer for input layer</h1>
+<p>network.add(layers.Dropout(0.2, input_shape=(number_of_features,)))</p>
+
+<h1 id="add-fully-connected-layer-with-a-relu-activation-function">Add fully connected layer with a ReLU activation function</h1>
+<p>network.add(layers.Dense(units=16, activation=’relu’))</p>
+
+<h1 id="add-a-dropout-layer-for-previous-hidden-layer">Add a dropout layer for previous hidden layer</h1>
+<p>network.add(layers.Dropout(0.5))</p>
+
+<h1 id="add-fully-connected-layer-with-a-relu-activation-function-1">Add fully connected layer with a ReLU activation function</h1>
+<p>network.add(layers.Dense(units=16, activation=’relu’))</p>
+
+<h1 id="add-a-dropout-layer-for-previous-hidden-layer-1">Add a dropout layer for previous hidden layer</h1>
+<p>network.add(layers.Dropout(0.5))</p>
+
+<h1 id="add-fully-connected-layer-with-a-sigmoid-activation-function">Add fully connected layer with a sigmoid activation function</h1>
+<p>network.add(layers.Dense(units=1, activation=’sigmoid’))
+```</p>
+
+<h2 id="compile-neural-network">Compile Neural Network</h2>
+
+<p><code class="highlighter-rouge">python
+# Compile neural network
+network.compile(loss='binary_crossentropy', # Cross-entropy
+                optimizer='rmsprop', # Root Mean Square Propagation
+                metrics=['accuracy']) # Accuracy performance metric
+</code></p>
+
+<h2 id="train-neural-network">Train Neural Network</h2>
+
+<p><code class="highlighter-rouge">python
+# Train neural network
+history = network.fit(train_features, # Features
+                      train_target, # Target vector
+                      epochs=3, # Number of epochs
+                      verbose=0, # No output
+                      batch_size=100, # Number of observations per batch
+                      validation_data=(test_features, test_target)) # Data for evaluation
+</code></p>
