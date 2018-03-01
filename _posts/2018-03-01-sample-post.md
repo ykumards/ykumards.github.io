@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Sample Page
-category: blog
+category: blogs
 tags: [sample]
 ---
 
