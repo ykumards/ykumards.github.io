@@ -38,57 +38,65 @@
   <div class="post__content"?>
     <h2 id="preliminaries">Preliminaries</h2>
 
-<pre><code class="language-python"># Load libraries
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import TruncatedSVD
-from scipy.sparse import csr_matrix
-from sklearn import datasets
-import numpy as np
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Load libraries</span>
+<span class="kn">from</span> <span class="nn">sklearn.preprocessing</span> <span class="kn">import</span> <span class="n">StandardScaler</span>
+<span class="kn">from</span> <span class="nn">sklearn.decomposition</span> <span class="kn">import</span> <span class="n">TruncatedSVD</span>
+<span class="kn">from</span> <span class="nn">scipy.sparse</span> <span class="kn">import</span> <span class="n">csr_matrix</span>
+<span class="kn">from</span> <span class="nn">sklearn</span> <span class="kn">import</span> <span class="n">datasets</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
 </code></pre>
+</div>
 
 <h2 id="load-digits-data-and-make-sparse">Load Digits Data And Make Sparse</h2>
 
-<pre><code class="language-python"># Load the data
-digits = datasets.load_digits()
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Load the data</span>
+<span class="n">digits</span> <span class="o">=</span> <span class="n">datasets</span><span class="o">.</span><span class="n">load_digits</span><span class="p">()</span>
 
-# Standardize the feature matrix
-X = StandardScaler().fit_transform(digits.data)
+<span class="c"># Standardize the feature matrix</span>
+<span class="n">X</span> <span class="o">=</span> <span class="n">StandardScaler</span><span class="p">()</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">digits</span><span class="o">.</span><span class="n">data</span><span class="p">)</span>
 
-# Make sparse matrix
-X_sparse = csr_matrix(X)
+<span class="c"># Make sparse matrix</span>
+<span class="n">X_sparse</span> <span class="o">=</span> <span class="n">csr_matrix</span><span class="p">(</span><span class="n">X</span><span class="p">)</span>
 </code></pre>
+</div>
 
 <h2 id="create-truncated-singular-value-decomposition">Create Truncated Singular Value Decomposition</h2>
 
-<pre><code class="language-python"># Create a TSVD
-tsvd = TruncatedSVD(n_components=10)
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Create a TSVD</span>
+<span class="n">tsvd</span> <span class="o">=</span> <span class="n">TruncatedSVD</span><span class="p">(</span><span class="n">n_components</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
 </code></pre>
+</div>
 
 <h2 id="run-truncated-singular-value-decomposition">Run Truncated Singular Value Decomposition</h2>
 
-<pre><code class="language-python"># Conduct TSVD on sparse matrix
-X_sparse_tsvd = tsvd.fit(X_sparse).transform(X_sparse)
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Conduct TSVD on sparse matrix</span>
+<span class="n">X_sparse_tsvd</span> <span class="o">=</span> <span class="n">tsvd</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">X_sparse</span><span class="p">)</span><span class="o">.</span><span class="n">transform</span><span class="p">(</span><span class="n">X_sparse</span><span class="p">)</span>
 </code></pre>
+</div>
 
 <h2 id="view-results">View Results</h2>
 
-<pre><code class="language-python"># Show results
-print('Original number of features:', X_sparse.shape[1])
-print('Reduced number of features:', X_sparse_tsvd.shape[1])
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Show results</span>
+<span class="k">print</span><span class="p">(</span><span class="s">'Original number of features:'</span><span class="p">,</span> <span class="n">X_sparse</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
+<span class="k">print</span><span class="p">(</span><span class="s">'Reduced number of features:'</span><span class="p">,</span> <span class="n">X_sparse_tsvd</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
 </code></pre>
+</div>
 
-<pre><code>Original number of features: 64
+<div class="highlighter-rouge"><pre class="highlight"><code>Original number of features: 64
 Reduced number of features: 10
 </code></pre>
+</div>
 
 <h2 id="view-percent-of-variance-explained-by-new-features">View Percent Of Variance Explained By New Features</h2>
 
-<pre><code class="language-python"># Sum of first three components' explained variance ratios
-tsvd.explained_variance_ratio_[0:3].sum()
+<div class="highlighter-rouge"><pre class="highlight"><code><span class="c"># Sum of first three components' explained variance ratios</span>
+<span class="n">tsvd</span><span class="o">.</span><span class="n">explained_variance_ratio_</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">3</span><span class="p">]</span><span class="o">.</span><span class="nb">sum</span><span class="p">()</span>
 </code></pre>
+</div>
 
-<pre><code>0.30039385372588506
+<div class="highlighter-rouge"><pre class="highlight"><code>0.30039385372588506
 </code></pre>
+</div>
 
 
   </div>

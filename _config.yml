@@ -17,10 +17,10 @@ sass:
 
 # Markdown
 # pygments: true
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
-  syntax_highlighter: pygments
+  # syntax_highlighter: rouge
