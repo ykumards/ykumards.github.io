@@ -17,7 +17,7 @@ layout: default
 
 <div class="blog">
 {% for category in site.categories %}
-  <li><h1>{{ category | last }}:</h1>
+  <li><h1>{{ category | first }}:</h1>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
