@@ -167,6 +167,18 @@ ul {
             border-radius: 3px;
             background: $color-fg;
         }
+        .highlight {
+            margin: 10px;
+            margin-bottom: 15px;
+            padding: 10px;
+            line-height: 1.5;
+            border-radius: 3px;
+            background: $color-fg;
+            code {
+                color: $color-code;
+                background: none;
+            }
+        }
         .codebreak {
             margin: 15px;
             border: 0;
