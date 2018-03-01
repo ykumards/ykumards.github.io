@@ -23,4 +23,4 @@ kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
-  syntax_highlighter: rouge
+  syntax_highlighter: pygments
