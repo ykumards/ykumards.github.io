@@ -1,0 +1,62 @@
+<h2 id="preliminaries">Preliminaries</h2>
+
+<p><code class="highlighter-rouge">python
+# Load libraries
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import TruncatedSVD
+from scipy.sparse import csr_matrix
+from sklearn import datasets
+import numpy as np
+</code></p>
+
+<h2 id="load-digits-data-and-make-sparse">Load Digits Data And Make Sparse</h2>
+
+<p>```python
+# Load the data
+digits = datasets.load_digits()</p>
+
+<h1 id="standardize-the-feature-matrix">Standardize the feature matrix</h1>
+<p>X = StandardScaler().fit_transform(digits.data)</p>
+
+<h1 id="make-sparse-matrix">Make sparse matrix</h1>
+<p>X_sparse = csr_matrix(X)
+```</p>
+
+<h2 id="create-truncated-singular-value-decomposition">Create Truncated Singular Value Decomposition</h2>
+
+<p><code class="highlighter-rouge">python
+# Create a TSVD
+tsvd = TruncatedSVD(n_components=10)
+</code></p>
+
+<h2 id="run-truncated-singular-value-decomposition">Run Truncated Singular Value Decomposition</h2>
+
+<p><code class="highlighter-rouge">python
+# Conduct TSVD on sparse matrix
+X_sparse_tsvd = tsvd.fit(X_sparse).transform(X_sparse)
+</code></p>
+
+<h2 id="view-results">View Results</h2>
+
+<p><code class="highlighter-rouge">python
+# Show results
+print('Original number of features:', X_sparse.shape[1])
+print('Reduced number of features:', X_sparse_tsvd.shape[1])
+</code></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Original number of features: 64
+Reduced number of features: 10
+</code></pre>
+</div>
+
+<h2 id="view-percent-of-variance-explained-by-new-features">View Percent Of Variance Explained By New Features</h2>
+
+<p><code class="highlighter-rouge">python
+# Sum of first three components' explained variance ratios
+tsvd.explained_variance_ratio_[0:3].sum()
+</code></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>0.30039385372588506
+</code></pre>
+</div>
+
