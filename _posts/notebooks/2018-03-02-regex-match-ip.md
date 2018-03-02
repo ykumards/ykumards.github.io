@@ -2,9 +2,10 @@
 layout: post
 title: Match an IP address
 description: "How to match an IP address in a text using regex"
-category: tech-notes
+category: tech
 tags: [python, regex, text]
 ---
+
 Sometimes we'd need to match IP addresses in a text, probably to extract them or filter them out. I faced this while working on the Kaggle's Toxic Comments challenge, many of the texts end with an IP address. If you're trying extract features like "number of sentences in the comment", these IPs could mess the count. 
 
 
