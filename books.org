@@ -1,0 +1,42 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/org.css" />
+#+TITLE: Reading List
+#+OPTIONS: toc:nil
+#+options: num:nil
+
+HTML version of the Org file that I maintain for my readling list. Occasionally, I also write reviews for some books.
+Also, here's my [[https://www.goodreads.com/user/show/44600519-yogesh][Goodreads profile]].
+
+** Currently Reading
+*** [[https://www.goodreads.com/book/show/7138.Crime_and_Punishment][Crime and Punishment]]
+*** [[https://www.goodreads.com/book/show/18757378-the-plague][The Plague]]
+** 2017
+*** [[https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck][The Subtle Art of Not Giving a Fuck]]  (2/5) 
+    Completed On: <2017-01-09 Mon
+*** [[https://www.goodreads.com/book/show/29780253-born-a-crime][Born A Crime]] (5/5)
+*** [[https://www.goodreads.com/book/show/25899336-when-breath-becomes-air][When Breath Becomes Air]] (4/5)
+*** [[https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_?ac=1&from_search=true][Do Androids Dream of Electric Sheep]] (3/5)
+*** [[https://www.goodreads.com/book/show/38501.Ham_on_Rye?ac=1&from_search=true][Ham on Rye]] (5/5)
+*** [[https://www.goodreads.com/book/show/22948207-a-man-called-ove][A Man Called Ove]] (3/5)
+*** [[https://www.goodreads.com/book/show/5485.Brave_New_World][Brave New World]] (3/5)
+*** [[https://www.goodreads.com/book/show/11991.The_Fall][The Fall]] (4/5)
+** 2016 [20]
+*** [[https://www.goodreads.com/book/show/25744928-deep-work][Deep Work]]
+*** [[https://www.goodreads.com/book/show/6490587-things-fall-apart][Things Fall Apart]]
+*** [[https://www.goodreads.com/book/show/13259270-free-will][Free Will]]
+*** [[https://www.goodreads.com/book/show/289147.The_Best_A_Man_Can_Get][The Best A Man Can Get]]
+*** [[https://www.goodreads.com/book/show/12379144-lying][Lying]]
+*** [[https://www.goodreads.com/book/show/12722.The_Moon_Is_Down][The Moon Is Down]]
+*** [[https://www.goodreads.com/book/show/503150.Letters_to_a_Young_Contrarian][Letters to a Young Contrarian]]
+*** [[https://www.goodreads.com/book/show/13529055-mortality][Mortality]]
+*** [[https://www.goodreads.com/book/show/96358.Batman][Batman: The Killing Joke]]
+*** [[https://www.goodreads.com/book/show/3698.The_Quiet_American][The Quiet American]]
+*** [[https://www.goodreads.com/book/show/23492684-the-idealist][The Idealist]]
+*** [[https://www.goodreads.com/book/show/51299.Letter_to_a_Christian_Nation][Letter To A Christian Nation]]
+*** [[https://www.goodreads.com/book/show/7143113-on-writing][On Writing]]
+*** [[https://www.goodreads.com/book/show/22557272-the-girl-on-the-train][The Girl On The Train]]
+*** [[https://www.goodreads.com/book/show/472331.Watchmen][Watchmen]]
+*** [[https://www.goodreads.com/book/show/485894.The_Metamorphosis][The Metamorphosis]]
+*** [[https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time][The Curious Incident of the Dog in the Night-Time]]
+*** [[https://www.goodreads.com/book/show/385.On_Bullshit][On Bullshit]]
+*** [[https://www.goodreads.com/book/show/49552.The_Stranger][The Stranger]]
+*** [[https://www.goodreads.com/book/show/41793.Hackers_Painters][Hackers and Painters]]

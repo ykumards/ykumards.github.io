@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/quantumgeeky
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://coffeecult.me
+  * I am quantumgeeky (https://keybase.io/quantumgeeky) on keybase.
+  * I have a public key ASDd3ifbNNOWfKX08R1-UoqJz24OvGb5j71LiypB5og-ego
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ddde27db34d3967ca5f4f11d7e528a89cf6e0ebc66f98fbd4b8b2a41e6883e7a0a",
+            "host": "keybase.io",
+            "kid": "0120ddde27db34d3967ca5f4f11d7e528a89cf6e0ebc66f98fbd4b8b2a41e6883e7a0a",
+            "uid": "7b8a1c6569084805c3eb5b0e17920019",
+            "username": "quantumgeeky"
+        },
+        "service": {
+            "hostname": "coffeecult.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1491745127,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491745077,
+        "hash": "c4a54cb76212c15a1c46ee9de79cb0e438dc35dcae98730c7fb4b959cd4fb922a2b0947e2e59633ad481e5d574fb968abadc54db03517b679019f3fd7aebe8a0",
+        "seqno": 1008116
+    },
+    "prev": "5b4a36a1b55eec78f8b5386ef01bfefabf7f012fda7913912ba1cf3015131970",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3d4n2zTTlnyl9PEdflKKic9uDrxm+Y+9S4sqQeaIPnoKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGRkZTI3ZGIzNGQzOTY3Y2E1ZjRmMTFkN2U1MjhhODljZjZlMGViYzY2Zjk4ZmJkNGI4YjJhNDFlNjg4M2U3YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGRkZTI3ZGIzNGQzOTY3Y2E1ZjRmMTFkN2U1MjhhODljZjZlMGViYzY2Zjk4ZmJkNGI4YjJhNDFlNjg4M2U3YTBhIiwidWlkIjoiN2I4YTFjNjU2OTA4NDgwNWMzZWI1YjBlMTc5MjAwMTkiLCJ1c2VybmFtZSI6InF1YW50dW1nZWVreSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY29mZmVlY3VsdC5tZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjAifSwiY3RpbWUiOjE0OTE3NDUxMjcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MTc0NTA3NywiaGFzaCI6ImM0YTU0Y2I3NjIxMmMxNWExYzQ2ZWU5ZGU3OWNiMGU0MzhkYzM1ZGNhZTk4NzMwYzdmYjRiOTU5Y2Q0ZmI5MjJhMmIwOTQ3ZTJlNTk2MzNhZDQ4MWU1ZDU3NGZiOTY4YWJhZGM1NGRiMDM1MTdiNjc5MDE5ZjNmZDdhZWJlOGEwIiwic2Vxbm8iOjEwMDgxMTZ9LCJwcmV2IjoiNWI0YTM2YTFiNTVlZWM3OGY4YjUzODZlZjAxYmZlZmFiZjdmMDEyZmRhNzkxMzkxMmJhMWNmMzAxNTEzMTk3MCIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKaABUQ7qADm0DhkHAHn8gqTt+fzIzQk25IfkiLcUvGefAV1SsZqLY4yRpBbdMTo6EC6PjqzjNtOgKfVu8KxPgSoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCiSRP7UWidYKcqElkTZkHxrmbGXpUU0r3W5B8LaLwNaqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/quantumgeeky
+
+==================================================================
