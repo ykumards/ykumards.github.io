@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Yogesh',
     'I live in Helsinki <br/>',
     'n am terrified of falling <br/> asleep on the subway',
-    'I PhD student at Aalto University',
+    'I PhD student at Aalto <br/> University',
     'Feel free to look around',
     getCurrentTime(),
     '🍺🍺'
