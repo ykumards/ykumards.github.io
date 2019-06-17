@@ -24,9 +24,9 @@ window.onload = function() {
   var messages = [
     'Hello there 👋',
     'I\'m Yogesh',
-    'I live in New York <br/>',
+    'I live in Helsinki <br/>',
     'n am terrified of falling <br/> asleep on the subway',
-    'I go to NYU as CS grad',
+    'I PhD student at Aalto University',
     'Feel free to look around',
     getCurrentTime(),
     '🍺🍺'
