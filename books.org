@@ -6,6 +6,8 @@
 HTML version of the Org file that I maintain for my readling list. Occasionally, I also write reviews for some books.
 Also, here's my [[https://www.goodreads.com/user/show/44600519-yogesh][Goodreads profile]].
 
+**** [[https://www.goodreads.com/review/list/44600519?shelf=read][Total = 117/1000]]
+
 ** Currently Reading
 *** [[https://www.goodreads.com/book/show/117833.The_Master_and_Margarita?ac=1&from_search=true&qid=4baxf96IE9&rank=1][The Master and Margarita]]
 *** [[https://www.goodreads.com/book/show/18162555-a-confederacy-of-dunces][A Confederacy of Dunces]]
@@ -16,7 +18,7 @@ Also, here's my [[https://www.goodreads.com/user/show/44600519-yogesh][Goodreads
 *** [[https://www.goodreads.com/book/show/33124137-pet-sematary][Pet Cemetary]] (2/5)
 *** [[https://www.goodreads.com/book/show/23419.The_Consolations_of_Philosophy][The Consolations of Philosophy]] (4/5)
 ** 2018 [[https://www.goodreads.com/user/year_in_books/2018/44600519][Summary]]
-*** [[https://www.goodreads.com/book/show/18624273-the-war-of-art][The War of Art]] (3/5)
+*** [[https://www.goodreads.com/book/show/18624273-the-war-of-art][The War of Art]](3/5)
 *** [[https://www.goodreads.com/book/show/33395538-astrophysics-for-people-in-a-hurry][Astrophysics for People in a Hurry]] (4/5)
 *** [[https://www.goodreads.com/book/show/375802.Ender_s_Game][Enders Game]] (1/5)
 *** [[https://www.goodreads.com/book/show/21463939-what-if][What-if?]] (4/5)
