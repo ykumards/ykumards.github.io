@@ -7,9 +7,15 @@ HTML version of the Org file that I maintain for my readling list. Occasionally,
 Also, here's my [[https://www.goodreads.com/user/show/44600519-yogesh][Goodreads profile]].
 
 ** Currently Reading
+*** [[https://www.goodreads.com/book/show/117833.The_Master_and_Margarita?ac=1&from_search=true&qid=4baxf96IE9&rank=1][The Master and Margarita]]
 *** [[https://www.goodreads.com/book/show/18162555-a-confederacy-of-dunces][A Confederacy of Dunces]]
 *** [[https://www.goodreads.com/book/show/7138.Crime_and_Punishmen][Crime and Punishment]]
-** 2018
+** 2019 [[https://www.goodreads.com/user/year_in_books/2019/44600519][Summary]]
+*** [[https://www.goodreads.com/book/show/1038467.Travels_with_Charley][Travels with Charly]] (5/5)
+*** [[https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House][The Haunting of Hill House]] (4/5)
+*** [[https://www.goodreads.com/book/show/33124137-pet-sematary][Pet Cemetary]] (2/5)
+*** [[https://www.goodreads.com/book/show/23419.The_Consolations_of_Philosophy][The Consolations of Philosophy]] (4/5)
+** 2018 [[https://www.goodreads.com/user/year_in_books/2018/44600519][Summary]]
 *** [[https://www.goodreads.com/book/show/18624273-the-war-of-art][The War of Art]] (3/5)
 *** [[https://www.goodreads.com/book/show/33395538-astrophysics-for-people-in-a-hurry][Astrophysics for People in a Hurry]] (4/5)
 *** [[https://www.goodreads.com/book/show/375802.Ender_s_Game][Enders Game]] (1/5)
@@ -31,8 +37,8 @@ Also, here's my [[https://www.goodreads.com/user/show/44600519-yogesh][Goodreads
 *** [[https://www.goodreads.com/book/show/28589527-adulthood-is-a-myth][Adulthood is a Myth]] (3/5)
 *** [[https://www.goodreads.com/book/show/6519719-the-great-gatsby][The Great Gatsby]] (4/5)
 *** [[https://www.goodreads.com/book/show/35395012-love-among-the-bookshelves][Love Among the Bookshelves]] (3/5)
-** 2017
-*** [[https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck][The Subtle Art of Not Giving a Fuck]]  (2/5) 
+** 2017 [[https://www.goodreads.com/user/year_in_books/2017/44600519][Summary]]
+*** [[https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck][The Subtle Art of Not Giving a Fuck]]  (2/5)
 *** [[https://www.goodreads.com/book/show/29780253-born-a-crime][Born A Crime]] (5/5)
 *** [[https://www.goodreads.com/book/show/25899336-when-breath-becomes-air][When Breath Becomes Air]] (4/5)
 *** [[https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_?ac=1&from_search=true][Do Androids Dream of Electric Sheep]] (3/5)
@@ -41,7 +47,7 @@ Also, here's my [[https://www.goodreads.com/user/show/44600519-yogesh][Goodreads
 *** [[https://www.goodreads.com/book/show/5485.Brave_New_World][Brave New World]] (3/5)
 *** [[https://www.goodreads.com/book/show/11991.The_Fall][The Fall]] (4/5)
 *** [[https://www.goodreads.com/book/show/6563888-post-office][Post Office]] (3/5)
-** 2016
+** 2016 [[https://www.goodreads.com/user/year_in_books/2016/44600519][Summary]]
 *** [[https://www.goodreads.com/book/show/25744928-deep-work][Deep Work]]
 *** [[https://www.goodreads.com/book/show/6490587-things-fall-apart][Things Fall Apart]]
 *** [[https://www.goodreads.com/book/show/13259270-free-will][Free Will]]
@@ -62,3 +68,19 @@ Also, here's my [[https://www.goodreads.com/user/show/44600519-yogesh][Goodreads
 *** [[https://www.goodreads.com/book/show/385.On_Bullshit][On Bullshit]]
 *** [[https://www.goodreads.com/book/show/49552.The_Stranger][The Stranger]]
 *** [[https://www.goodreads.com/book/show/41793.Hackers_Painters][Hackers and Painters]]
+** 2015 [[https://www.goodreads.com/user/year_in_books/2015/44600519][Summary]]
+*** [[https://www.goodreads.com/book/show/581697.The_Pearl][The Pearl]] (4/5)
+*** [[https://www.goodreads.com/book/show/17623890-goodbye-to-all-that][Goodbye to All That]] (2/5)
+*** [[https://www.goodreads.com/book/show/18007564-the-martian][The Martian]] (4/5)
+*** [[https://www.goodreads.com/book/show/17470674-fahrenheit-451][Fahrenheit 451]] (3/5)
+*** [[https://www.goodreads.com/book/show/4631.A_Moveable_Feast][A Moveable Feast]] (5/5)
+*** [[https://www.goodreads.com/book/show/11617647-the-old-man-and-the-sea][The Old Man and the Sea]] (5/5)
+*** [[https://www.goodreads.com/book/show/1898.Into_Thin_Air][Into Thin Air]] (4/5)
+*** [[https://www.goodreads.com/book/show/890.Of_Mice_and_Men][Of Mice and Men]] (5/5)
+*** [[https://www.goodreads.com/book/show/17375.The_Meaning_of_It_All][The Meaning of it All]] (5/5)
+*** [[https://www.goodreads.com/book/show/5325066-the-road][The Road]] (5/5)
+*** [[https://www.goodreads.com/book/show/18106816-anthem][Anthem]] (2/5)
+*** [[https://www.goodreads.com/book/show/19494.The_Spy_Who_Came_In_from_the_Cold][The Spy Who Came In from the Cold]] (5/5)
+*** [[https://www.goodreads.com/book/show/12853168-sliding-on-the-snow-stone][Sliding on the Snow]] (3/5)
+*** [[https://www.goodreads.com/book/show/4981.Slaughterhouse_Five][Slaughterhouse Five]] (5/5)
+*** [[https://www.goodreads.com/book/show/95442.Divorcing_Jack][Divorcing Jack]] (3/5)
