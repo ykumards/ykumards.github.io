@@ -1,5 +1,5 @@
 /*
- * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. 
+ * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
  * Copyright (c) 2016 Julian Garnier
  */
@@ -7,7 +7,7 @@
 window.onload = function() {
 
   var messagesEl = document.querySelector('.messages');
-  var typingSpeed = 25;
+  var typingSpeed = 5;
   var loadingText = '<b>•</b><b>•</b><b>•</b>';
   var messageIndex = 0;
 
@@ -27,7 +27,7 @@ window.onload = function() {
     'I live in Helsinki <br/>',
     'n am terrified of falling <br/> asleep on the subway',
     'Imma PhD student  <br/> @Aalto University',
-    'Feel free to look around',
+    'Checkout my<a target="_blank" href="https://ykumards.github.io/blog">blog.</a>',
     getCurrentTime(),
     '🍺🍺'
   ]
