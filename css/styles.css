@@ -13,7 +13,7 @@
 
 ul {
     background-color: #141a23;
-    
+
     @include clearfix;
   }
 
@@ -137,14 +137,14 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
 
 
     .bottomband:after {
-        width: 5px;     height: 17px;     background-color: rgba(0, 0, 0, 0.18);     position: absolute;     
-        top: 0;     
+        width: 5px;     height: 17px;     background-color: rgba(0, 0, 0, 0.18);     position: absolute;
+        top: 0;
         right: -405px;     z-index: 0;
         content: '';
     }
 
     .bottomband {
-        width: 5px;     height: 17px;     background-color: rgba(0, 0, 0, 0.18);     position: absolute;     
+        width: 5px;     height: 17px;     background-color: rgba(0, 0, 0, 0.18);     position: absolute;
         bottom: 53px;     left: -6px;     z-index: 0;
     }
 
@@ -160,19 +160,19 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
 
     .topband:after {
         content: '';
-        width: 5px;     height: 17px;     
-        background-color: rgba(0, 0, 0, 0.18);     position: absolute;     
-        top: 0;     
+        width: 5px;     height: 17px;
+        background-color: rgba(0, 0, 0, 0.18);     position: absolute;
+        top: 0;
         right: -405px;     z-index: 0;
     }
 
     .ref2 {
-        position: absolute;     
-        left: 8px;     
-        top: 9px;     
-        width: 3px;     
-        height: 3px;     
-        background-color: rgba(0, 246, 255, 0.35);     z-index: 10;     
+        position: absolute;
+        left: 8px;
+        top: 9px;
+        width: 3px;
+        height: 3px;
+        background-color: rgba(0, 246, 255, 0.35);     z-index: 10;
         border-radius: 100%;
     }
 
@@ -194,8 +194,8 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
         left: 7px;
         position: absolute;
         opacity: .3;
-        top: 4px;          
-        background: linear-gradient(64deg, rgba(255,255,255,0.2) -40%,rgba(255,255,255,0) 25%,rgba(255,255,255,0.2) 49%,rgba(255,255,255,0) 60%,rgba(255,255,255,0) 82%,rgba(255,255,255,0.2) 120%);  
+        top: 4px;
+        background: linear-gradient(64deg, rgba(255,255,255,0.2) -40%,rgba(255,255,255,0) 25%,rgba(255,255,255,0.2) 49%,rgba(255,255,255,0) 60%,rgba(255,255,255,0) 82%,rgba(255,255,255,0.2) 120%);
     }
 
     .glossy:after {
@@ -227,8 +227,8 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
         position: absolute;
         bottom: 20px;
         left: 50%;
-        margin-left: -30px;            
-        background: linear-gradient(-45deg,  rgba(0,0,0,1) 0%,rgba(255,255,255,.2) 50%,rgba(0,0,0,1) 100%);  
+        margin-left: -30px;
+        background: linear-gradient(-45deg,  rgba(0,0,0,1) 0%,rgba(255,255,255,.2) 50%,rgba(0,0,0,1) 100%);
         border-radius: 999px;
         z-index: 10;
     }
@@ -269,12 +269,12 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
     }
 
     .btn_l_top {
-        position: absolute;     
-        left: -11px;     
-        width: 5px;     
-        height: 37px;     
-        top: 94px;     
-        border-top-left-radius: 3px;     
+        position: absolute;
+        left: -11px;
+        width: 5px;
+        height: 37px;
+        top: 94px;
+        border-top-left-radius: 3px;
         background-color: #D4D4D4;     border-bottom-left-radius: 3px;
         box-shadow: inset 0px 0px 1px 1px rgba(255,255,255,.4), inset -1px 0px 0px 2px #656565;
     }
@@ -301,10 +301,10 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
         position: absolute;
         right: -11px;
         top: 170px;
-        border-top-right-radius: 3px;          
+        border-top-right-radius: 3px;
         border-bottom-right-radius: 3px;
         z-index: -1;
-        background-color: #D4D4D4;          
+        background-color: #D4D4D4;
         box-shadow: inset 0px 0px 1px 1px rgba(255,255,255,.4), inset 1px 0px 0px 2px #656565;
     }
 
@@ -334,4 +334,72 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
         z-index: 10;
     }
 
+    .iphone-x {
+      position: relative;
+      margin: 40px auto;
+      width: 360px;
+      height: 780px;
+      background-color: #7371ee;
+      background-image: linear-gradient(60deg, #7371ee 1%,#a1d9d6 100%);
+      border-radius: 40px;
+      box-shadow: 0px 0px 0px 11px #1f1f1f, 0px 0px 0px 13px #191919, 0px 0px 0px 20px #111;
 
+    }
+
+    .iphone-x:before {
+      content: '';
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+
+    .iphone-x:after {
+      content: '';
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+
+    .front_frame {
+        top: 0px;
+        width: 56%;
+        height: 30px;
+        background-color: #1f1f1f;
+        border-radius: 0px 0px 40px 40px;
+    }
+    .camera {
+      left: 10%;
+      top: 0px;
+      transform: translate(180px, 4px);
+      width: 12px;
+      height: 12px;
+      background-color: #101010;
+      border-radius: 12px;
+      box-shadow: inset 0px -3px 2px 0px rgba(256, 256, 256, 0.2);
+    }
+
+    .camera:after {
+        content: '';
+        position: absolute;
+        background-color: #2d4d76;
+        width: 6px;
+        height: 6px;
+        top: 2px;
+        left: 2px;
+        top: 3px;
+        left: 3px;
+        display: block;
+        border-radius: 4px;
+        box-shadow: inset 0px -2px 2px rgba(0, 0, 0, 0.5);
+      }
+
+    .speaker {
+      top: 0px;
+      left: 50%;
+      transform: translate(-50%, 6px);
+      height: 8px;
+      width: 15%;
+      background-color: #101010;
+      border-radius: 8px;
+      box-shadow: inset 0px -3px 3px 0px rgba(256, 256, 256, 0.2);
+    }
