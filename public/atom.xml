@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Le Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-07-08T13:19:29&#43;03:00</updated>
+    <updated>2020-07-08T13:57:14&#43;03:00</updated>
     <id>https://ykumards.github.io/</id>
     <link rel="alternate" type="text/html" href="https://ykumards.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ykumards.github.io/atom.xml" />
