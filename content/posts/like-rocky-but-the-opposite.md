@@ -1,0 +1,12 @@
+---
+title: "Like Rocky, but the opposite"
+date: 2018-11-21T11:38:05+03:00
+draft: false
+categories: ["musings"]
+---
+
+I’ve never had much of an upper body strength. I can do 3/4th of a pull up and maybe 3.5 pushups before I get the wind knocked out of me, I then slyly duck down to catch my breath pretending to tie (actually, untie then tie) my shoelaces. I never understood why gym trainers always ask you start with these insane body-weight exercises before you’re allowed to touch weights. Gym dumbbells for example, start at 5 lbs with 0.5 lbs increments while my generously rotund body weighs 165 lbs, shouldn’t we be doing body-weight exercises after we lose weight at the gym?
+
+My legs however, are in a much better shape. They are like two pistons of an internal combustion engine, relentlessly converting sambar into forward propulsion at a rate between 3-6 mph. So to stop being fat, I run. I have this theory that pull-ups will be much easier after I lose a few. In my younger days, running was never a problem – be it on a treadmill or out in the open, I had always managed to burn a few hundred calories every session without any fuss. The muscles used to be sore for a day or two, but eventually I always got into a nice running rhythm. These days, as am nearing the end of my physical heydays, the sore muscles tend to outstay their welcome by a few days, sometimes weeks. This is a major problem because currently I am in one of the worst shapes that I’ve ever been in.
+
+I have been running quite consistently for the past couple of weeks, one can only bear through a finite number of “oh man you’ve put on weight, haven’t you” comments from soulless dweebs (#shakeitoff). Anyway, it has been really hard. I have driveled and crawled through the uphill roads of Ooty during the first week, sometimes it felt like my ankles were about to fall apart after each run. Now after 2 weeks, it feels like my ankles have finally upgraded themselves to support my enormous weight. Along the way, I had to change my diet (more veggies and less carbs), my shoes and mindset. Now I know how Rocky felt at the end of the movie. Wait I never saw that movie, he won right? I just googled it, he lost. I feel the opposite of what rocky felt. There.
