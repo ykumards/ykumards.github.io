@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://ykumards.github.io/blog"
+baseURL = "https://ykumards.github.io/"
 title = "Le Blog"
 languageCode = "en"
 hasCJKLanguage = false

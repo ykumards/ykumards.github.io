@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Le Blog</title>
-        <link>https://ykumards.github.io/blog/</link>
+        <link>https://ykumards.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.73.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 08 Jul 2020 13:04:03 &#43;0300</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2020 13:16:18 &#43;0300</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://ykumards.github.io/blog/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://ykumards.github.io/rss.xml" />
         
         
             <item>
                 <title>When Snow Gets in Your Shoes</title>
-                <link>https://ykumards.github.io/blog/posts/when-snow-gets-in-your-shoes/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/when-snow-gets-in-your-shoes/</guid>
+                <link>https://ykumards.github.io/posts/when-snow-gets-in-your-shoes/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/when-snow-gets-in-your-shoes/</guid>
                 <pubDate>Mon, 21 Jan 2019 11:41:31 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -54,7 +54,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -66,8 +66,8 @@
         
             <item>
                 <title>The Bet</title>
-                <link>https://ykumards.github.io/blog/posts/the-bet/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/the-bet/</guid>
+                <link>https://ykumards.github.io/posts/the-bet/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/the-bet/</guid>
                 <pubDate>Thu, 22 Nov 2018 11:40:16 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -92,7 +92,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -104,8 +104,8 @@
         
             <item>
                 <title>Like Rocky, but the opposite</title>
-                <link>https://ykumards.github.io/blog/posts/like-rocky-but-the-opposite/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/like-rocky-but-the-opposite/</guid>
+                <link>https://ykumards.github.io/posts/like-rocky-but-the-opposite/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/like-rocky-but-the-opposite/</guid>
                 <pubDate>Wed, 21 Nov 2018 11:38:05 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -127,7 +127,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -139,8 +139,8 @@
         
             <item>
                 <title>Writer’s Block</title>
-                <link>https://ykumards.github.io/blog/posts/writers-block/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/writers-block/</guid>
+                <link>https://ykumards.github.io/posts/writers-block/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/writers-block/</guid>
                 <pubDate>Thu, 15 Nov 2018 11:37:12 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -161,7 +161,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -173,8 +173,8 @@
         
             <item>
                 <title>How to Tell a Story</title>
-                <link>https://ykumards.github.io/blog/posts/how-to-tell-a-story/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/how-to-tell-a-story/</guid>
+                <link>https://ykumards.github.io/posts/how-to-tell-a-story/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/how-to-tell-a-story/</guid>
                 <pubDate>Mon, 12 Nov 2018 11:36:11 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -209,7 +209,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -221,8 +221,8 @@
         
             <item>
                 <title>Oh No! Silence</title>
-                <link>https://ykumards.github.io/blog/posts/oh-no-silence/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/oh-no-silence/</guid>
+                <link>https://ykumards.github.io/posts/oh-no-silence/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/oh-no-silence/</guid>
                 <pubDate>Sat, 10 Nov 2018 11:35:04 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -244,7 +244,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -256,8 +256,8 @@
         
             <item>
                 <title>Diwali Causes Cancer</title>
-                <link>https://ykumards.github.io/blog/posts/diwali-causes-cancer/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/diwali-causes-cancer/</guid>
+                <link>https://ykumards.github.io/posts/diwali-causes-cancer/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/diwali-causes-cancer/</guid>
                 <pubDate>Tue, 06 Nov 2018 11:34:31 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -277,7 +277,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -289,8 +289,8 @@
         
             <item>
                 <title>The Great Gatsby</title>
-                <link>https://ykumards.github.io/blog/posts/the-great-gatsby/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/the-great-gatsby/</guid>
+                <link>https://ykumards.github.io/posts/the-great-gatsby/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/the-great-gatsby/</guid>
                 <pubDate>Mon, 05 Nov 2018 11:14:13 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -321,7 +321,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -333,8 +333,8 @@
         
             <item>
                 <title>Streaks</title>
-                <link>https://ykumards.github.io/blog/posts/streaks/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/streaks/</guid>
+                <link>https://ykumards.github.io/posts/streaks/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/streaks/</guid>
                 <pubDate>Sun, 04 Nov 2018 11:12:58 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -356,7 +356,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         
@@ -368,8 +368,8 @@
         
             <item>
                 <title>Where to begin?</title>
-                <link>https://ykumards.github.io/blog/posts/where-to-begin/</link>
-                <guid isPermaLink="true">https://ykumards.github.io/blog/posts/where-to-begin/</guid>
+                <link>https://ykumards.github.io/posts/where-to-begin/</link>
+                <guid isPermaLink="true">https://ykumards.github.io/posts/where-to-begin/</guid>
                 <pubDate>Sat, 03 Nov 2018 10:48:16 &#43;0300</pubDate>
                 
                     <author>ykumards.public@gmail.com (yogi)</author>
@@ -391,7 +391,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ykumards.github.io/blog/categories/musings/">musings</category>
+                                    <category domain="https://ykumards.github.io/categories/musings/">musings</category>
                                 
                             
                         

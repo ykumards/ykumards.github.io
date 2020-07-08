@@ -4,10 +4,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Le Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-07-08T13:04:03&#43;03:00</updated>
-    <id>https://ykumards.github.io/blog/</id>
-    <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://ykumards.github.io/blog/atom.xml" />
+    <updated>2020-07-08T13:16:18&#43;03:00</updated>
+    <id>https://ykumards.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://ykumards.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://ykumards.github.io/atom.xml" />
     <author>
             <name>yogi</name>
             <uri>https://ykumards.github.io/</uri>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.73.0">Hugo</generator>
         <entry>
             <title type="text">When Snow Gets in Your Shoes</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/when-snow-gets-in-your-shoes/" />
-            <id>https://ykumards.github.io/blog/posts/when-snow-gets-in-your-shoes/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/when-snow-gets-in-your-shoes/" />
+            <id>https://ykumards.github.io/posts/when-snow-gets-in-your-shoes/</id>
             <updated>2020-07-08T12:44:03&#43;03:00</updated>
             <published>2019-01-21T11:41:31&#43;03:00</published>
             <author>
@@ -45,7 +45,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -57,8 +57,8 @@
     
         <entry>
             <title type="text">The Bet</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/the-bet/" />
-            <id>https://ykumards.github.io/blog/posts/the-bet/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/the-bet/" />
+            <id>https://ykumards.github.io/posts/the-bet/</id>
             <updated>2020-07-08T12:44:21&#43;03:00</updated>
             <published>2018-11-22T11:40:16&#43;03:00</published>
             <author>
@@ -86,7 +86,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -98,8 +98,8 @@
     
         <entry>
             <title type="text">Like Rocky, but the opposite</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/like-rocky-but-the-opposite/" />
-            <id>https://ykumards.github.io/blog/posts/like-rocky-but-the-opposite/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/like-rocky-but-the-opposite/" />
+            <id>https://ykumards.github.io/posts/like-rocky-but-the-opposite/</id>
             <updated>2020-07-08T12:44:27&#43;03:00</updated>
             <published>2018-11-21T11:38:05&#43;03:00</published>
             <author>
@@ -124,7 +124,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -136,8 +136,8 @@
     
         <entry>
             <title type="text">Writer’s Block</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/writers-block/" />
-            <id>https://ykumards.github.io/blog/posts/writers-block/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/writers-block/" />
+            <id>https://ykumards.github.io/posts/writers-block/</id>
             <updated>2020-07-08T12:44:38&#43;03:00</updated>
             <published>2018-11-15T11:37:12&#43;03:00</published>
             <author>
@@ -161,7 +161,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -173,8 +173,8 @@
     
         <entry>
             <title type="text">How to Tell a Story</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/how-to-tell-a-story/" />
-            <id>https://ykumards.github.io/blog/posts/how-to-tell-a-story/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/how-to-tell-a-story/" />
+            <id>https://ykumards.github.io/posts/how-to-tell-a-story/</id>
             <updated>2020-07-08T12:44:29&#43;03:00</updated>
             <published>2018-11-12T11:36:11&#43;03:00</published>
             <author>
@@ -212,7 +212,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -224,8 +224,8 @@
     
         <entry>
             <title type="text">Oh No! Silence</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/oh-no-silence/" />
-            <id>https://ykumards.github.io/blog/posts/oh-no-silence/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/oh-no-silence/" />
+            <id>https://ykumards.github.io/posts/oh-no-silence/</id>
             <updated>2020-07-08T12:44:25&#43;03:00</updated>
             <published>2018-11-10T11:35:04&#43;03:00</published>
             <author>
@@ -250,7 +250,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -262,8 +262,8 @@
     
         <entry>
             <title type="text">Diwali Causes Cancer</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/diwali-causes-cancer/" />
-            <id>https://ykumards.github.io/blog/posts/diwali-causes-cancer/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/diwali-causes-cancer/" />
+            <id>https://ykumards.github.io/posts/diwali-causes-cancer/</id>
             <updated>2020-07-08T12:44:32&#43;03:00</updated>
             <published>2018-11-06T11:34:31&#43;03:00</published>
             <author>
@@ -286,7 +286,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -298,8 +298,8 @@
     
         <entry>
             <title type="text">The Great Gatsby</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/the-great-gatsby/" />
-            <id>https://ykumards.github.io/blog/posts/the-great-gatsby/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/the-great-gatsby/" />
+            <id>https://ykumards.github.io/posts/the-great-gatsby/</id>
             <updated>2020-07-08T12:44:22&#43;03:00</updated>
             <published>2018-11-05T11:14:13&#43;03:00</published>
             <author>
@@ -333,7 +333,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -345,8 +345,8 @@
     
         <entry>
             <title type="text">Streaks</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/streaks/" />
-            <id>https://ykumards.github.io/blog/posts/streaks/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/streaks/" />
+            <id>https://ykumards.github.io/posts/streaks/</id>
             <updated>2020-07-08T12:44:20&#43;03:00</updated>
             <published>2018-11-04T11:12:58&#43;03:00</published>
             <author>
@@ -371,7 +371,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
@@ -383,8 +383,8 @@
     
         <entry>
             <title type="text">Where to begin?</title>
-            <link rel="alternate" type="text/html" href="https://ykumards.github.io/blog/posts/where-to-begin/" />
-            <id>https://ykumards.github.io/blog/posts/where-to-begin/</id>
+            <link rel="alternate" type="text/html" href="https://ykumards.github.io/posts/where-to-begin/" />
+            <id>https://ykumards.github.io/posts/where-to-begin/</id>
             <updated>2020-07-08T12:44:47&#43;03:00</updated>
             <published>2018-11-03T10:48:16&#43;03:00</published>
             <author>
@@ -409,7 +409,7 @@
                             
                             
                             
-                                <category scheme="https://ykumards.github.io/blog/categories/musings/" term="musings" label="musings" />
+                                <category scheme="https://ykumards.github.io/categories/musings/" term="musings" label="musings" />
                             
                         
                     
